@@ -1,5 +1,6 @@
 
 🛡️ Cybersecurity Portfolio — Swastika Sedhai
+
 This repository highlights my foundational cybersecurity skills through audits, incident reports, Linux permissions, SQL investigations, and Python scripting.
 
 📂 Included Work
